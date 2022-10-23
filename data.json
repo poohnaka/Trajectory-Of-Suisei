@@ -1,0 +1,29 @@
+{
+  "name": "Trajectory Of Suisei",
+  "version": "8.8",
+  "description": "Suichan's personal blue hell",
+  "color": "#5AB3F4",
+  "authors": [
+    {
+      "name": "Me,Myself,I",
+      "id": "417603493294243840"
+    }
+  ],
+  "background": {
+    "blur": 0,
+    "url": "https://imgur.com/a/MRfVdzD",
+    "alpha": 0
+  },
+  "theme_color_map": {
+    "BACKGROUND_PRIMARY": ["#5AB3F4", "#FFFFFF"],
+                        //Dark Mode , //Light Mode
+    "BACKGROUND_SECONDARY": ["rgba(44, 130, 0, 201)";, 1, "rgba(255, 255, 255, 1)"],
+  },
+  "colours": {
+    "PRIMARY_DARK": "#0F0FFF",
+    "BRAND_NEW": "transparent",
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  }
+}
