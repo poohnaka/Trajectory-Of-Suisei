@@ -12,12 +12,12 @@
   "background": {
     "blur": 0,
     "url": "https://imgur.com/a/MRfVdzD",
-    "alpha": 0
+    "alpha": 0.69
   },
   "theme_color_map": {
     "BACKGROUND_PRIMARY": ["#5AB3F4", "#FFFFFF"],
                         //Dark Mode , //Light Mode
-    "BACKGROUND_SECONDARY": ["rgba(44, 130, 0, 201)", "rgba(255, 255, 255, 1)"],
+    "BACKGROUND_SECONDARY": ["rgba(44, 130, 201, 1)", "rgba(255, 255, 255, 1)"],
   },
   "colours": {
     "PRIMARY_DARK": "#0F0FFF",
