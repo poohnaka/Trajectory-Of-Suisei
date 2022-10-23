@@ -14,7 +14,7 @@
     "url": "https://i.imgur.com/xQQXHyM.jpg",
     "alpha": 0.69
   },
-  "theme_color_map": {
+	"theme_color_map": {
 		"KEYBOARD": ["#202a4a", "#202a4a"],
 		"BACKGROUND_PRIMARY": ["#141a2e", "#141a2e"],
 		"BACKGROUND_SECONDARY": ["#212133", "#212133"],
